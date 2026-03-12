@@ -2,7 +2,6 @@
 
 Une application de messagerie en temps réel construite avec **React**, **Express**, et **Socket.IO**. L'historique des messages est sauvegardé dans un fichier local `messages.json`.
 
-> **Note** : la fonctionnalité de prévisualisation de liens a été retirée car l'API externe ne fonctionnait plus. Aucune clé d'API ou variable d'environnement n'est désormais nécessaire et le paquet `dotenv` a été supprimé des dépendances.
 
 ## Architecture & composants
 
