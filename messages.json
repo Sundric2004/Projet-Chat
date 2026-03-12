@@ -1,0 +1,944 @@
+[
+  {
+    "id": 1,
+    "text": "Hello WebSocket!",
+    "senderId": "unknown",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:01.000Z",
+    "clientOffset": "y9C7QQTqIzMNdRSyAAAB-1772206766871",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 2,
+    "text": "hey",
+    "senderId": "unknown",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:02.000Z",
+    "clientOffset": "y9C7QQTqIzMNdRSyAAAB-1772206809190",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 3,
+    "text": "fuigirqgbqpiergr",
+    "senderId": "unknown",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:03.000Z",
+    "clientOffset": "y9C7QQTqIzMNdRSyAAAB-1772206903058",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 4,
+    "text": "bizarre",
+    "senderId": "bldq4gmo",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:04.000Z",
+    "clientOffset": "oMFlMjQWi_4tEH0ZAAAE-1772247076282",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 5,
+    "text": "weshhh",
+    "senderId": "Abdel",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:05.000Z",
+    "clientOffset": "PRC_M7TaqaRRzchsAAAH-1772247682298",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 6,
+    "text": "dingriii",
+    "senderId": "Kila",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:06.000Z",
+    "clientOffset": "5UHUbshFEJwK9h9LAAAK-1772247689158",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 7,
+    "text": "Je suis trop fort",
+    "senderId": "Abdel",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:07.000Z",
+    "clientOffset": "PRC_M7TaqaRRzchsAAAH-1772247786346",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 8,
+    "text": "Ouee je saiissssss",
+    "senderId": "Kila",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:08.000Z",
+    "clientOffset": "5UHUbshFEJwK9h9LAAAK-1772247892291",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 9,
+    "text": "hello",
+    "senderId": "djenba",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:09.000Z",
+    "clientOffset": "zllMUpburmuvN2qVAAAW-1772705135156",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 10,
+    "text": "test sur le pseudo",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:10.000Z",
+    "clientOffset": "mJDsqwVroN6qpoiEAAAB-1772716447526",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 11,
+    "text": "euh ?",
+    "senderId": "A",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:11.000Z",
+    "clientOffset": "l_px_EpnSYQAXverAAAX-1772722509769",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 12,
+    "text": "Bonjour",
+    "senderId": "B",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:12.000Z",
+    "clientOffset": "2pSzmHE5zN2la0l5AAAd-1772722524504",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 13,
+    "text": "a",
+    "senderId": "Djenba",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:13.000Z",
+    "clientOffset": "0NN23Lf5A9yMgaf7AAAm-1772722584714",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 14,
+    "text": "pseudo",
+    "senderId": "Jennyfer",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:14.000Z",
+    "clientOffset": "rsblBqXa6bI4DliTAAAH-1772791605471",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 15,
+    "text": "ordre",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:00:15.000Z",
+    "clientOffset": "9aAPHEbn9W2Fp98gAAAK-1772791641783",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 16,
+    "text": "Pourquoi c'est aussi carré les message",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:32:51.642Z",
+    "clientOffset": "wVas8QNjzAGDoFJ_AAAH-1772800371638",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 17,
+    "text": "bon en vrai pas grave ça s'adapte au lenght du texte",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:33:24.480Z",
+    "clientOffset": "wVas8QNjzAGDoFJ_AAAH-1772800404476",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 18,
+    "text": "hello",
+    "senderId": "Djeneba",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:37:55.018Z",
+    "clientOffset": "kRRxZiz66uRV7XDpAAAQ-1772800675015",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 19,
+    "text": "Hello!!",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:54:33.637Z",
+    "clientOffset": "NJQVRQCqKz7DABovAAAT-1772801673631",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 20,
+    "text": "ca va ?",
+    "senderId": "Djeneba",
+    "room": "room-1",
+    "timestamp": "2026-03-06T12:54:50.371Z",
+    "clientOffset": "-IZ7Ysi2Vbh-WTQRAAAW-1772801690367",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 21,
+    "text": "oui et toi?",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T13:06:48.350Z",
+    "clientOffset": "NJQVRQCqKz7DABovAAAT-1772802408347",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 22,
+    "text": "très bien",
+    "senderId": "Djeneba",
+    "room": "room-1",
+    "timestamp": "2026-03-06T13:11:44.516Z",
+    "clientOffset": "3gEuLYQqPjqfHdO3AAAE-1772802704513",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 23,
+    "text": "hey",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T13:36:11.573Z",
+    "clientOffset": "4qUw5FbNZKXgHpj9AAAQ-1772804171568",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 24,
+    "text": "re",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T13:36:27.742Z",
+    "clientOffset": "4qUw5FbNZKXgHpj9AAAQ-1772804187739",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 25,
+    "text": "oui?",
+    "senderId": "Djeneba",
+    "room": "room-1",
+    "timestamp": "2026-03-06T14:08:49.021Z",
+    "clientOffset": "WJpgDE3xv6VfkedwAAAf-1772806129018",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 26,
+    "text": "?",
+    "senderId": "Djeneba",
+    "room": "room-1",
+    "timestamp": "2026-03-06T14:11:47.831Z",
+    "clientOffset": "7wRJJekilRMFikx4AAAj-1772806307828",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 27,
+    "text": "test message",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T14:11:56.010Z",
+    "clientOffset": "svqTPlpn2Va0SivzAAAl-1772806316007",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 28,
+    "text": "wahhhhh",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T14:17:25.429Z",
+    "clientOffset": "svqTPlpn2Va0SivzAAAl-1772806645425",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 29,
+    "text": "bouuuhhh",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T14:17:44.724Z",
+    "clientOffset": "svqTPlpn2Va0SivzAAAl-1772806664721",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 30,
+    "text": "hello",
+    "senderId": "Fanta",
+    "room": "room-1",
+    "timestamp": "2026-03-06T19:34:00.790Z",
+    "clientOffset": "cUdEVVzYrM0_YmB0AAAB-1772825640787",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 31,
+    "text": "Hello! Bienvenue dans notre belle communauté !",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T19:35:33.163Z",
+    "clientOffset": "ZaJA4-eBUOGvhvILAAAE-1772825733161",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 32,
+    "text": "hbhb",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-06T20:45:37.556Z",
+    "clientOffset": "oNM7oqUgyfA6ZJghAAAB-1772829900228",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 33,
+    "text": "test",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-08T21:54:46.915Z",
+    "clientOffset": "wcNzp0TkmXqOX8Y3AAAZ-1773006886865",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 34,
+    "text": "ouiiiiii enfin ça fonctionne",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-08T21:54:57.940Z",
+    "clientOffset": "wcNzp0TkmXqOX8Y3AAAZ-1773006897935",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 35,
+    "text": "meilleur film de 2025 no comment",
+    "senderId": "Jenny",
+    "room": "room-1773011123462",
+    "timestamp": "2026-03-08T23:08:09.744Z",
+    "clientOffset": "XNRAoC5FNHcK-ieNAAAB-1773011289738",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 36,
+    "text": "Hiii everybody",
+    "senderId": "Jenny",
+    "room": "room-1773011264010",
+    "timestamp": "2026-03-08T23:08:23.714Z",
+    "clientOffset": "XNRAoC5FNHcK-ieNAAAB-1773011303711",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 37,
+    "text": "tu vas bien ?",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-09T16:23:48.063Z",
+    "clientOffset": "VNmjfz58HYbLDIV8AAAB-1773073428064",
+    "replyTo": {
+      "id": 30,
+      "text": "hello",
+      "senderId": "Fanta"
+    },
+    "pinned": false
+  },
+  {
+    "id": 38,
+    "text": "Tout le monde va bien !",
+    "senderId": "Djeneba",
+    "room": "room-1",
+    "timestamp": "2026-03-09T16:24:26.420Z",
+    "clientOffset": "PcX0np3vMME8vmHlAAAE-1773073466422",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 39,
+    "text": "pas toi",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-09T20:44:53.399Z",
+    "clientOffset": "6pwVkiR8vxLpm2U0AAAB-1773089093393",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 40,
+    "text": "Coucou",
+    "senderId": "Fanta",
+    "room": "room-1773011517097",
+    "timestamp": "2026-03-09T22:13:38.928Z",
+    "clientOffset": "NcwnuJxhzVofQuVeAAAW-1773094418923",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 41,
+    "text": "hello",
+    "senderId": "Manon",
+    "room": "room-1773011264010",
+    "timestamp": "2026-03-10T13:10:42.929Z",
+    "clientOffset": "kf28_0qcxuB0otIjAAAH-1773148242926",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 42,
+    "text": "team romayer",
+    "senderId": "Manon",
+    "room": "room-1773011517097",
+    "timestamp": "2026-03-10T13:11:02.987Z",
+    "clientOffset": "kf28_0qcxuB0otIjAAAH-1773148262984",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 43,
+    "text": "ouiii",
+    "senderId": "Jenny",
+    "room": "room-1773011517097",
+    "timestamp": "2026-03-10T13:14:37.112Z",
+    "clientOffset": "z9Nl4r9BC-WZDQi_AAAK-1773148477108",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 44,
+    "text": "ouiiii",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-10T13:14:47.613Z",
+    "clientOffset": "z9Nl4r9BC-WZDQi_AAAK-1773148487610",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 45,
+    "text": "How are you ?",
+    "senderId": "Jenny",
+    "room": "room-1773011264010",
+    "timestamp": "2026-03-10T16:28:47.810Z",
+    "clientOffset": "zV56x3oBsFdAKMWSAAAT-1773160127804",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 46,
+    "text": "Comment s'est passé vos vacances ?",
+    "senderId": "Fanta",
+    "room": "room-1",
+    "timestamp": "2026-03-10T16:36:34.563Z",
+    "clientOffset": "ypfgqQAoLdWXD-RSAAAZ-1773160594560",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 47,
+    "text": "Vous avez fait quoi?",
+    "senderId": "Fanta",
+    "room": "room-1",
+    "timestamp": "2026-03-10T16:36:55.191Z",
+    "clientOffset": "ypfgqQAoLdWXD-RSAAAZ-1773160615189",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 48,
+    "text": "La persévérance est une qualité précieuse, car elle permet d’avancer malgré les difficultés, les doutes et les échecs passagers. Chaque effort accompli, même discret, contribue à bâtir une expérience solide et une confiance plus durable en soi, ce qui fin",
+    "senderId": "Fanta",
+    "room": "room-1",
+    "timestamp": "2026-03-10T22:28:11.665Z",
+    "clientOffset": "KTLPPCtet4I_I1MbAAAw-1773181691659",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 49,
+    "text": "❤️‍🔥",
+    "senderId": "Fanta",
+    "room": "room-1",
+    "timestamp": "2026-03-10T23:22:58.325Z",
+    "clientOffset": "m0Z1xu1QVVxff7XcAAAB-1773184978320",
+    "replyTo": null,
+    "pinned": true
+  },
+  {
+    "id": 50,
+    "text": "Frrr😌",
+    "senderId": "Djeneba",
+    "room": "room-1",
+    "timestamp": "2026-03-10T23:26:02.863Z",
+    "clientOffset": "fHpf9qao5MCyI2_hAAAH-1773185162858",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 51,
+    "text": "Helloooo ! Bienvenue à tous les passionnées de musique 🎶🎵❤️‍🔥🥰",
+    "senderId": "Roni",
+    "room": "room-1773185693158",
+    "timestamp": "2026-03-10T23:38:31.159Z",
+    "clientOffset": "uZV0XKD7W8p6BwoYAAAB-1773185911148",
+    "replyTo": null,
+    "pinned": true
+  },
+  {
+    "id": 52,
+    "text": "https://www.youtube.com/watch?v=85YXjCU0pmc",
+    "senderId": "Roni",
+    "room": "room-1773185693158",
+    "timestamp": "2026-03-10T23:39:14.075Z",
+    "clientOffset": "uZV0XKD7W8p6BwoYAAAB-1773185954072",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 53,
+    "text": "https://www.youtube.com/watch?v=85YXjCU0pmc",
+    "senderId": "Roni",
+    "room": "room-1773185693158",
+    "timestamp": "2026-03-10T23:51:19.484Z",
+    "clientOffset": "EggqKlLSEZTnMOTyAAAE-1773186679485",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 54,
+    "text": "Bon ça fonctionne pas ...",
+    "senderId": "Roni",
+    "room": "room-1773185693158",
+    "timestamp": "2026-03-10T23:51:35.008Z",
+    "clientOffset": "EggqKlLSEZTnMOTyAAAE-1773186695011",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 55,
+    "text": "🦧",
+    "senderId": "Roni",
+    "room": "room-1773185693158",
+    "timestamp": "2026-03-10T23:52:10.391Z",
+    "clientOffset": "EggqKlLSEZTnMOTyAAAE-1773186730390",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 56,
+    "text": "oe oe",
+    "senderId": "Sundric",
+    "room": "room-1",
+    "timestamp": "2026-03-11T18:47:39.049Z",
+    "clientOffset": "XWJ2t664kq-is6p7AAAZ-1773254859047",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 57,
+    "text": "sdk",
+    "senderId": "Abdel",
+    "room": "room-1",
+    "timestamp": "2026-03-11T18:47:46.591Z",
+    "clientOffset": "2gxJC380u7HszaSmAAAc-1773254866589",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 58,
+    "text": "Pouloooohhhhhh",
+    "senderId": "Sundric",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T18:52:07.157Z",
+    "clientOffset": "o3MktOU95fQViM9BAAAI-1773255127156",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 59,
+    "text": "pouloh pouloh",
+    "senderId": "Abdel",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T18:52:30.331Z",
+    "clientOffset": "s23UpyR1O5uwnGpiAAAF-1773255150331",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 60,
+    "text": "bing bing",
+    "senderId": "Sundric",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T18:52:41.413Z",
+    "clientOffset": "o3MktOU95fQViM9BAAAI-1773255161415",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 61,
+    "text": "skkrttttt",
+    "senderId": "Abdel",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T18:52:49.317Z",
+    "clientOffset": "s23UpyR1O5uwnGpiAAAF-1773255169319",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 62,
+    "text": "brah brah",
+    "senderId": "Sundric",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T18:52:57.851Z",
+    "clientOffset": "o3MktOU95fQViM9BAAAI-1773255177852",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 63,
+    "text": "yaaaaahhhh",
+    "senderId": "Sundric",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T20:25:26.920Z",
+    "clientOffset": "UtXGHHMcwyt94qTXAAAd-1773260726917",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 64,
+    "text": "yooo",
+    "senderId": "Abdel",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T20:25:36.342Z",
+    "clientOffset": "bRdPHywrDS_noMGrAAAa-1773260736339",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 65,
+    "text": "Abdel",
+    "senderId": "Sundric",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T20:25:53.666Z",
+    "clientOffset": "UtXGHHMcwyt94qTXAAAd-1773260753664",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 66,
+    "text": "Sundric",
+    "senderId": "Abdel",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T20:26:00.676Z",
+    "clientOffset": "bRdPHywrDS_noMGrAAAa-1773260760673",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 67,
+    "text": "yeah",
+    "senderId": "Sundric",
+    "room": "room-1773011123462",
+    "timestamp": "2026-03-11T20:30:54.541Z",
+    "clientOffset": "jexZGjQkLrFSREorAAAE-1773261054536",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 68,
+    "text": "fine and you",
+    "senderId": "Sundric",
+    "room": "room-1773011264010",
+    "timestamp": "2026-03-11T20:31:03.379Z",
+    "clientOffset": "jexZGjQkLrFSREorAAAE-1773261063381",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 69,
+    "text": "dingrii",
+    "senderId": "Sundric",
+    "room": "room-1773011517097",
+    "timestamp": "2026-03-11T20:31:24.278Z",
+    "clientOffset": "jexZGjQkLrFSREorAAAE-1773261084281",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 70,
+    "text": "😂",
+    "senderId": "Sundric",
+    "room": "room-1773185693158",
+    "timestamp": "2026-03-11T20:31:37.138Z",
+    "clientOffset": "jexZGjQkLrFSREorAAAE-1773261097042",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 71,
+    "text": "hey",
+    "senderId": "Sundric",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T20:31:59.573Z",
+    "clientOffset": "jexZGjQkLrFSREorAAAE-1773261119571",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 72,
+    "text": "ca va ?",
+    "senderId": "Abdel",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T20:32:10.067Z",
+    "clientOffset": "SOh5ARBg29sA2JPqAAAB-1773261130065",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 73,
+    "text": "hey",
+    "senderId": "Sundric",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T20:42:46.289Z",
+    "clientOffset": "o-JFRAsMf0xNx5CUAAAM-1773261766288",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 74,
+    "text": "salut",
+    "senderId": "Abdel",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T20:43:00.899Z",
+    "clientOffset": "zSFLKfB0EPX7yy-7AAAJ-1773261780899",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 75,
+    "text": "ça va ?",
+    "senderId": "Sundric",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T20:43:10.927Z",
+    "clientOffset": "o-JFRAsMf0xNx5CUAAAM-1773261790928",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 76,
+    "text": "hey yo",
+    "senderId": "Sundric",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T20:51:09.115Z",
+    "clientOffset": "xIHIy-z6cU9Daql6AAAG-1773262269111",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 77,
+    "text": "dingue",
+    "senderId": "Abdel",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T20:51:20.447Z",
+    "clientOffset": "UQBrvQES59SmERBSAAAJ-1773262280444",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 78,
+    "text": "bouyaakaaaa",
+    "senderId": "Abdel",
+    "room": "room-1",
+    "timestamp": "2026-03-11T20:55:21.493Z",
+    "clientOffset": "-TmzqV9H1W6HGlfKAAAM-1773262521490",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 79,
+    "text": "yooohhhh",
+    "senderId": "Abdel",
+    "room": "room-1773011123462",
+    "timestamp": "2026-03-11T20:55:34.788Z",
+    "clientOffset": "-TmzqV9H1W6HGlfKAAAM-1773262534786",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 80,
+    "text": "tu fais quoi ?",
+    "senderId": "sundric",
+    "room": "dm_Abdel_sundric",
+    "timestamp": "2026-03-11T20:55:57.453Z",
+    "clientOffset": "ZY3dnPrmoA5nJKcZAAAP-1773262557451",
+    "replyTo": null,
+    "pinned": false
+  },
+  {
+    "id": 81,
+    "text": "a",
+    "senderId": "Sundric",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-11T21:17:53.717Z",
+    "clientOffset": "G-zsrTRKGYAmLAb2AAAH-1773263873715",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": "/uploads/image-1773263873682-36568551.png"
+  },
+  {
+    "id": 82,
+    "text": "envoie",
+    "senderId": "Founeke",
+    "room": "dm_Abdel_Founeke",
+    "timestamp": "2026-03-11T22:23:18.081Z",
+    "clientOffset": "VE4ODphTRYaoiAR9AAAO-1773267798078",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": "/uploads/image-1773267798041-463601866.png"
+  },
+  {
+    "id": 83,
+    "text": "envoie",
+    "senderId": "Founeke",
+    "room": "dm_Abdel_Founeke",
+    "timestamp": "2026-03-11T22:23:18.115Z",
+    "clientOffset": "VE4ODphTRYaoiAR9AAAO-1773267798115",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": "/uploads/image-1773267798093-247994573.png"
+  },
+  {
+    "id": 84,
+    "text": "hey",
+    "senderId": "Sundric",
+    "room": "room-1773011123462",
+    "timestamp": "2026-03-12T09:18:20.487Z",
+    "clientOffset": "q3AXZX2ddJfjXFHNAAAH-1773307100483",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": null
+  },
+  {
+    "id": 85,
+    "text": "hey",
+    "senderId": "Sundric",
+    "room": "room-1773011123462",
+    "timestamp": "2026-03-12T09:18:26.361Z",
+    "clientOffset": "q3AXZX2ddJfjXFHNAAAH-1773307106358",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": null
+  },
+  {
+    "id": 86,
+    "text": "yooo",
+    "senderId": "Abdel",
+    "room": "dm_Abdel_Sundric",
+    "timestamp": "2026-03-12T09:18:42.406Z",
+    "clientOffset": "EaBm6xIkTlnR6eEeAAAN-1773307122403",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": null
+  },
+  {
+    "id": 87,
+    "text": "hey",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-12T12:41:42.472Z",
+    "clientOffset": "Bz6mtr3IkL5XcvhSAAAB-1773319302464",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": null,
+    "avatar": "🐱"
+  },
+  {
+    "id": 88,
+    "text": "ca va ??",
+    "senderId": "Djeneba",
+    "room": "room-1",
+    "timestamp": "2026-03-12T12:56:23.797Z",
+    "clientOffset": "8dtuw_nphKqBt8e7AAAH-1773320183794",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": null,
+    "avatar": "🦝"
+  },
+  {
+    "id": 89,
+    "text": "😃",
+    "senderId": "Djeneba",
+    "room": "room-1",
+    "timestamp": "2026-03-12T12:56:28.814Z",
+    "clientOffset": "8dtuw_nphKqBt8e7AAAH-1773320188812",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": null,
+    "avatar": "🦝"
+  },
+  {
+    "id": 90,
+    "text": "",
+    "senderId": "Djeneba",
+    "room": "room-1",
+    "timestamp": "2026-03-12T12:56:55.865Z",
+    "clientOffset": "8dtuw_nphKqBt8e7AAAH-1773320215864",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": "/uploads/image-1773320215851-6958499.png",
+    "avatar": "🦝"
+  },
+  {
+    "id": 91,
+    "text": "Heyy",
+    "senderId": "Manon",
+    "room": "dm_Djeneba_Manon",
+    "timestamp": "2026-03-12T12:57:25.013Z",
+    "clientOffset": "JscUq9eSvyj1FmbdAAAK-1773320245008",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": null,
+    "avatar": "🧜"
+  },
+  {
+    "id": 92,
+    "text": "ouii",
+    "senderId": "Jenny",
+    "room": "room-1",
+    "timestamp": "2026-03-12T13:00:51.107Z",
+    "clientOffset": "DvN-Opme8MSs1nqgAAAN-1773320451104",
+    "replyTo": null,
+    "pinned": false,
+    "imageUrl": null,
+    "avatar": "🐱"
+  }
+]
